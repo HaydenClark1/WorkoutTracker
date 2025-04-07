@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+matplotlib
+pandas
+datetime
+numpy
+requests
+openai

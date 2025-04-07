@@ -1,0 +1,10 @@
+.template-name{
+    border: none;
+    height: 100%;
+    width: 100%;
+    font-size: 30px;
+    outline: none;
+}
+.template-name:active{
+    border: none;
+}

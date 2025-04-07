@@ -1,0 +1,34 @@
+.search-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.results-container{
+    max-height: 200px;
+    overflow-y: scroll; /* ✅ Enables scrolling */
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
+.result-item{
+    margin-top: 2px;
+    font-size: large;
+}
+.result-item:hover{
+    background-color: #e0dcdc;
+    cursor: pointer;
+}
+.card-close-btn {
+    background: none;
+    border: none;
+    font-size: 13px;
+    cursor: pointer;
+    color: black;
+    margin-right: 5px;
+}
+.new-workout-btn{
+    border: 0;
+    background-color: white;
+    color: #007bff;
+    font-size: 15px;
+}

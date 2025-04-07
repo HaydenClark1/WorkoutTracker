@@ -1,0 +1,33 @@
+.workout-table-container {
+}
+
+.card-input {
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.add-set-btn {
+    margin-top: 10px;
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
+
+.add-set-btn:hover {
+    background-color: #0056b3;
+}
+.remove-set-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    border: 0;
+}
+.menu-btn:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+{
+    "bent over barbell row": {
+        "workout_count": 28,
+        "prediction": "\"55.0 lbs x 8 reps x 3 sets\""
+    },
+    "cable curl": {
+        "workout_count": 7,
+        "prediction": "Based on your past workouts, you're already making good progress towards improving your strength and progressively overloading your biceps. A good rule is to try to increase the weight or the reps every workout. Here's what I suggest for your next cable curl workout:\n\n- Set 1: 22.5 lbs x 12 reps\n- Set 2: 25.0 lbs x 8 reps  \n- Set 3: 22.5 lbs x 6 reps \n- Set"
+    }
+}

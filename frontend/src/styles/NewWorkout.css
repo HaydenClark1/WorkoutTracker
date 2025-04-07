@@ -1,0 +1,17 @@
+.new-workout-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 110px; /* Optional: Adds space between items */
+}
+
+.save-btn{
+    border: 0;
+    background-color: white;
+    color: #007bff;
+}
+.save-btn:disabled{
+    color: lightgray;
+}
